@@ -2,7 +2,7 @@
 # Getting Started with Plugins in Five
 
 Welcome to the Five Plugins development guide! This README will walk you through the process of creating and integrating custom plugins to enhance your applications in Five.
-For a deeper understanding of what you can achieve with plugins checkout the [official documentation]()
+For a deeper understanding of what you can achieve with plugins checkout the [official documentation](https://help.five.org/2.1/docs/learning-resources/templates/plugin-templates/card-templates/deploying-plugin)
 
 ## Table of Contents
 

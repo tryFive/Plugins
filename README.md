@@ -2,6 +2,7 @@
 # Getting Started with Plugins in Five
 
 Welcome to the Five Plugins development guide! This README will walk you through the process of creating and integrating custom plugins to enhance your applications in Five.
+For a deeper understanding of what you can achieve with plugins checkout the [official documentation]()
 
 ## Table of Contents
 

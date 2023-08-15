@@ -18,7 +18,6 @@ Five's Custom Actions offer developers the flexibility to add custom plugins, al
 
 ## Prerequisites
 
-- Familiarity with Node.js.
 - [Node.js](https://nodejs.org/) installed on your machine.
 - A code editor (e.g., [VS Code](https://code.visualstudio.com/)).
 - Basic understanding of React (optional but recommended).
